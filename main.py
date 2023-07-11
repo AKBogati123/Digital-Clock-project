@@ -38,5 +38,5 @@ try:
             if time.localtime().tm_sec != currentTime.tm_sec:
                 break
 except KeyboardInterrupt:
-    print('Digital Clock, by Al Sweigart al@inventwithpython.com')
+    print('Digital Clock, by AKBogati123')
     sys.exit()  # When Ctrl-C is pressed, end the program.
